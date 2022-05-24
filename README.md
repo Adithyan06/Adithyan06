@@ -4,14 +4,14 @@
     <summary><b>About</b></summary>
     <p align="left"></p>
 
-    ✨ I am a currently studying [Python](https://www.python.org/).
+    ✨ I am a currently studying Python
 
 </details>
 <details>
     <summary><b>Contact Me</b></summary>
     <p align="left"></p>
         <a href="https://t.me/Peterparker6">
-            <img alt="GPL3" src ="https://telegra.ph/file/16c12cfdf6d7bdbe94f77.jpg" width="25" height="5"/>
+            <img alt="GPL3" src ="https://telegra.ph/file/16c12cfdf6d7bdbe94f77.jpg" width="125" height="50"/>
         </a>
     </p>
 </details>
