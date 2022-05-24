@@ -11,7 +11,7 @@
     <summary><b>Contact Me</b></summary>
     <p align="left"></p>
 
-        [![Peter Parker](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://t.me/Peterparker6)
+        [![Peter Parker](https://img.shields.io/static/v1?label=PeterParker&message=devs&color=critical)](https://t.me/Peterparker6)
 </details>
 
 <!---
