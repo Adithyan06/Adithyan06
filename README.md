@@ -11,7 +11,7 @@
     <summary><b>Contact Me</b></summary>
     <p align="left"></p>
         <a href="https://t.me/Peterparker6">
-            <img alt="GPL3" src ="https://telegra.ph/file/16c12cfdf6d7bdbe94f77.jpg" width="125" height="50"/>
+            <img alt="GPL3" src ="https://telegra.ph/file/16c12cfdf6d7bdbe94f77.jpg" width="125" height="100"/>
         </a>
     </p>
 </details>
