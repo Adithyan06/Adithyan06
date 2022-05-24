@@ -4,7 +4,7 @@
     <summary><b>About</b></summary>
     <p align="left"></p>
 
-    ✨ I am a currently studying Python
+    ✨ I am a  student, currently studying python.
 
 </details>
 <details>
