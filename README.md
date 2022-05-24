@@ -12,7 +12,7 @@
     <p align="left"></p>
         <a href="https://t.me/Peterparker6">
             <img alt="Telegram" src ="https://telegra.ph/file/42a3fe0ce27da346182d8.jpg" width="125" height="100"/>
-        </a><a> href="https://t.me/Peterparker6">
+        </a><a href="https://t.me/Peterparker6">
                  <img alt="instagram" src ="https://telegra.ph/file/ad215e76a27329ff65fd7.jpg" width="125" height="100"/>
         </a>
     </p>
