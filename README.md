@@ -10,8 +10,10 @@
 <details>
     <summary><b>Contact Me</b></summary>
     <p align="left"></p>
-
-        [![Peter Parker](https://img.shields.io/static/v1?label=PeterParker&message=devs&color=critical)](https://t.me/Peterparker6)
+        <a href="https://t.me/Peterparker6">
+            <img alt="GPL3" src ="https://telegra.ph/file/16c12cfdf6d7bdbe94f77.jpg" width="25" height="5"/>
+        </a>
+    </p>
 </details>
 
 <!---
