@@ -1,10 +1,11 @@
-## ***Hello 👋 I am Peter, Welcome to my GitHub Profile.***
+## ***Hello 👋 I am Adithyan, Welcome to my GitHub Profile.***
 
 <details>
     <summary><b>About</b></summary>
     <p align="left"></p>
 
-    ✨ I am a  student, currently studying python.
+    ✨ I am studying Electronics engineering.
+       Interested in python.
 
 </details>
 <details>
